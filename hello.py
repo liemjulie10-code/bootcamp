@@ -1,1 +1,5 @@
-print ("hello world, i start highteck")
+a = int(input("10"))
+b = int(input("5"))
+print("Sum:", a + b)
+name = input("liem")
+print("Hello", "liem", "welcome to Python!")
